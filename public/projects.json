@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Ahuse",
+        "description": "A user- friendly platform for families to estimate their voucher eligibility and amounts · A step-by-step guide on how to apply for housing aid.",
+        "image": "src/assets/card1.png"
+    },
+    {
+        "id": 2,
+        "name": "App Dashboard",
+        "description": "Dashboard for App Type Apps. The Dashboard is where you can find API usage meters as well as important notifications about required actions or upcoming changes...",
+        "image": "src/assets/card2.png"
+    },
+    {
+        "id": 3,
+        "name": "Easy Rent",
+        "description": "Rent Lahore, Karachi, Islamabad and Gwadar property. Rent a property from Real Estate Agents in Lahore, Karachi, Islamabad and Gwadar and find Lahore...",
+        "image": "src/assets/card3.png"
+    }
+]
